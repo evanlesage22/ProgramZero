@@ -1,6 +1,13 @@
-#include <iostream>
+#include <cstdio>
 
 int main() {
-    std::cout << "hello world!" << std::endl;
-    return 0;
+    int j;
+for(j=48;j<48+10;j++) {
+        printf("%d %c \n", j, j);
+    }
+    printf("\n");
 }
+/*
+g++ programZero.cpp -o programZero.exe
+./programZero.exe
+*/
