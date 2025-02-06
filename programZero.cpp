@@ -56,7 +56,7 @@ printf("the size of fwink in bytes is %zu \n", sizeof(fwink)); //end of part 1
 but if we used short int it would be the size of the array * 2 but char takes up one so its just the size 
 of the array * 1
 */
-<<<<<<< HEAD
+
 
 
 }
@@ -127,9 +127,3 @@ printf("size of myData0 in bytes = %d \n", sizeof(myData1));
 function to determine their sizes in bytes. Can you explain your results?
 
  */
-=======
-
-
-}
-//end program 
->>>>>>> 27ddcc11e6013d954e9461caf7c626cecd54049c
